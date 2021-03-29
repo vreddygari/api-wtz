@@ -5,7 +5,7 @@
 
 	<groupId>com.mycompany</groupId>
 	<artifactId>api-timezone</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.4-SNAPSHOT</version>
     <packaging>mule-application</packaging>
 
 	<name>api-timezone</name>
